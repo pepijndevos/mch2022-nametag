@@ -15,6 +15,8 @@
 #include "pax_codecs.h"
 // The screen driver.
 #include "ili9341.h"
+// for mounting the SD card
+#include "sdcard.h"
 // For all system settings and alike.
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
